@@ -1,4 +1,4 @@
-word = "Hello, World"
+word = "Hello World"
 
 i = len(word)-1
 
